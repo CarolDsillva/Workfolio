@@ -39,6 +39,18 @@
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.3.1",
-    "vite": "^4.2.0"
+    "vite": "^4.2.1"
+  },
+  "description": "��#\u0000 \u0000W\u0000o\u0000r\u0000k\u0000f\u0000o\u0000l\u0000i\u0000o\u0000\r\u0000 \u0000#\u0000 \u0000W\u0000o\u0000r\u0000k\u0000f\u0000o\u0000l\u0000i\u0000o\u0000\r\u0000 \u0000",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carol-Dsillva/Workfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carol-Dsillva/Workfolio/issues"
   }
 }
