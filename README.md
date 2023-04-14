@@ -1,6 +1,5 @@
 # Carol Dsilva Workfolio Website
-
-
+![](https://github.com/Carol-Dsillva/Workfolio/blob/main/src/Screenshot.png)
 The following is a collection of my latest and most meaningful projects. Each piece is unique in style and content and represents a distinct moment in my career.
 
 The website is made using React JS, Javascript, CSS and Html. Image recources were downloaded from Freepix.
@@ -9,4 +8,4 @@ Being a lifelong learner is a trait that is really important to me, and I know t
 ![Logo](https://github.com/Carol-Dsillva/Workfolio/blob/main/src/assets/cdlogo.png)
 
 
-![](https://github.com/Carol-Dsillva/Workfolio/blob/main/src/Screenshot.png)
+
